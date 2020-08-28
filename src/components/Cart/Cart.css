@@ -1,0 +1,16 @@
+.cart{
+    background: lightblue;
+    width: 30%;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    border-radius: 8px;
+    border: grey solid 2px;
+}
+.items{
+    font-weight: 900;
+    font-size: 25px;
+}
+.price{
+    font-weight: 700;
+    font-size: 18px;
+}
